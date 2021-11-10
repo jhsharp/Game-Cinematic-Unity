@@ -1431,7 +1431,9 @@ MonoBehaviour:
   isParent: 1
   nightMode: 0
   dayObj: {fileID: 0}
+  dayObj2: {fileID: 0}
   nightObj: {fileID: 0}
+  select: 0
 --- !u!4 &34539584 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 441834466120768433, guid: 974ffef7321393843a25ae65791214bd, type: 3}
@@ -11478,7 +11480,9 @@ MonoBehaviour:
   isParent: 1
   nightMode: 0
   dayObj: {fileID: 0}
+  dayObj2: {fileID: 0}
   nightObj: {fileID: 0}
+  select: 0
 --- !u!1001 &675974913
 PrefabInstance:
   m_ObjectHideFlags: 0
